@@ -19,6 +19,7 @@ Backend Developer • Open Source Enthusiast • Constant Learner
 
 ## My Experience
 
+<img width="56" height="54" alt="image" src="https://github.com/user-attachments/assets/f848824c-9ef2-4a98-a2c9-09dfb9bacbb6" />
 FadedMC – Worked as Discord  developer, helping with server-side features and improvements.
 
 CrystalPractice (My Own Server) – Built and managed my own Minecraft practice server.
