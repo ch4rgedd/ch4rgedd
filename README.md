@@ -1,4 +1,4 @@
-# ⚡ Hi, I'm Charged  
+# ⚡ Hi, I'm Keztra
 
 Backend Developer • Open Source Enthusiast • Constant Learner  
 
